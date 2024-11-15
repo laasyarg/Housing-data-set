@@ -1,4 +1,3 @@
-I am Laasya Reddy Gaddam, a masters student in Data Analytics
-What enthusiats me: SQL, Python, SAS & tableau
-Plot twist: I didn't hunt for data – data found me and wouldn't let go!
-Get in contact with me : Glaasyareddy@gmail.com
+Here, I am working on Housing Data of the United Sates Real estate property. 
+This Data set contains all the details about the property like the layout and other facilities the property provides.
+I have analyzed the trends in the dataset after cleaning it, accessing the subsets of the data, performing EDA, scaling the data, etc.,.
