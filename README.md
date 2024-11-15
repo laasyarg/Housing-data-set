@@ -1,3 +1,4 @@
-Here, I am working on analyzing Housing Data set of the United states real estate property. 
-The data set describes the property details like its layout, no.of bedrooms and other facilities.
-I have shown its trends by visualising the data.
+I am Laasya Reddy Gaddam, a masters student in Data Analytics
+What enthusiats me: SQL, Python, SAS & tableau
+Plot twist: I didn't hunt for data – data found me and wouldn't let go!
+Get in contact with me : Glaasyareddy@gmail.com
